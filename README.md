@@ -6,3 +6,5 @@ Estoy añadiendo contenido al README.md
 
 Actualizando el readme para provocar un manual merge
 Esto es una nueva linea desde la rama html
+
+Estoy añadiendo nuevo contenido
